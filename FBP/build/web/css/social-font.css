@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'SocialMedia';
+	src: url('../fonts/SocialMedia.eot');
+	src: url('../fonts/SocialMedia.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/SocialMedia.svg#SocialMedia') format('svg'),
+		 url('../fonts/SocialMedia.woff') format('woff'),
+		 url('../fonts/SocialMedia.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-px:before, .icon-aim-alt:before, .icon-aim:before, .icon-amazon:before, .icon-android:before, .icon-app-stote:before, .icon-apple:before, .icon-arto:before, .icon-badoo:before, .icon-bandcamp:before, .icon-basecamp:before, .icon-bebo:before, .icon-behance:before, .icon-bing:before, .icon-blip:before, .icon-blogger:before, .icon-boxnet:before, .icon-brightkite:before, .icon-cinch:before, .icon-coroflot:before, .icon-dailybooth:before, .icon-dailyburn:before, .icon-dailymile:before, .icon-delicious:before, .icon-designbump:before, .icon-designfloat:before, .icon-designmoo:before, .icon-deviantart:before, .icon-digg-alt:before, .icon-digg:before, .icon-diigo:before, .icon-dribbble:before, .icon-dropbox:before, .icon-drupal:before, .icon-dzone:before, .icon-ebay:before, .icon-ember:before, .icon-envato:before, .icon-etsy:before, .icon-evernote:before, .icon-facebook-places:before, .icon-facebook:before, .icon-facto-me:before, .icon-feedburner:before, .icon-flickr:before, .icon-folkd:before, .icon-formspring:before, .icon-forrst:before, .icon-fotolog:before, .icon-foursquare:before, .icon-Freshbooks:before, .icon-friendfeed:before, .icon-friendster:before, .icon-gdgt:before, .icon-gimmebar:before, .icon-github-alt:before, .icon-github:before, .icon-goodreads:before, .icon-google-buzz:before, .icon-google-talk:before, .icon-google:before, .icon-googleplay:before, .icon-googleplus:before, .icon-gowalla:before, .icon-grooveshark:before, .icon-hackernews:before, .icon-hi5:before, .icon-hypemachine:before, .icon-hyves:before, .icon-icloud:before, .icon-icq:before, .icon-identica:before, .icon-instapaper:before, .icon-itunes:before, .icon-kik:before, .icon-krop:before, .icon-lastfm:before, .icon-linkedin:before, .icon-livejournal:before, .icon-lovedsgn:before, .icon-meetup:before, .icon-metacafe:before, .icon-mixx-alt:before, .icon-mixx:before, .icon-myspace-alt:before, .icon-myspace:before, .icon-newsvine:before, .icon-ning:before, .icon-officialfm:before, .icon-openid:before, .icon-orkut:before, .icon-path:before, .icon-paypal:before, .icon-photobucket:before, .icon-picassa:before, .icon-pinboard:before, .icon-pinterest:before, .icon-playstation:before, .icon-plixi:before, .icon-plurk:before, .icon-podcast:before, .icon-posterous:before, .icon-purevolume:before, .icon-quik:before, .icon-quora:before, .icon-rdio:before, .icon-readernaut:before, .icon-reddit:before, .icon-retweet:before, .icon-rss:before, .icon-scribd:before, .icon-sharethis:before, .icon-simplenote:before, .icon-skype:before, .icon-slashdot:before, .icon-slideshare:before, .icon-smugmug:before, .icon-soundcloud:before, .icon-spotify:before, .icon-squarespace:before, .icon-squidoo:before, .icon-steam:before, .icon-stumbleupon:before, .icon-technorati:before, .icon-thefancy:before, .icon-tribe:before, .icon-tripit:before, .icon-tumblr:before, .icon-twitter-alt:before, .icon-twitter:before, .icon-vcard:before, .icon-viddler:before, .icon-vimeo:before, .icon-virb:before, .icon-w3:before, .icon-whatsapp:before, .icon-wikipedia:before, .icon-windows:before, .icon-wists:before, .icon-wp-alt:before, .icon-wp:before, .icon-yahoo-buzz:before, .icon-yahoo:before, .icon-yelp:before, .icon-youtube:before, .icon-zerply:before, .icon-zynga:before, .icon-youtube-alt:before, .icon-ymessanger:before {
+	font-family: 'SocialMedia';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-facebook:before {
+	content: "\292d";
+}

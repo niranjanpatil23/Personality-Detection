@@ -1,0 +1,41 @@
+@import "header.css";
+@import "social-font.css";
+@import url('http://fonts.googleapis.com/css?family=Oldenburg');
+
+body, html, #contentcentral {
+    width: 100%;
+    height: 100%
+}
+
+#maincentral{
+    position: relative;
+    top: 50%;
+    transform: translateY(-80%);
+    text-align: center;
+}
+
+#fbbuttoncentral{
+    position: relative;
+    top: 60%;
+    transform: translateY(-95%);
+    text-align: center;
+}
+
+#getpbuttoncentral{
+    position: relative;
+    top: 70%;
+    transform: translateY(-45%);
+    text-align: center;
+}
+
+body {
+    margin: 0px 0px 0px 0px;
+    line-height: 1.5;
+}
+
+#mainbigfont {
+    font-size: 60px;
+    margin: 0px 0px 0px 0px;
+    font-family: 'Frutiger Neue W02 Thin', Arial, Helvetica, sans-serif;
+}
+
